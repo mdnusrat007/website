@@ -1,2 +1,2 @@
-# website.github.io
+# website
 new website
